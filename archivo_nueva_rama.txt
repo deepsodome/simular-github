@@ -1,2 +1,0 @@
-rama master
-rama nueva
